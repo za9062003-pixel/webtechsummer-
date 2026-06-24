@@ -1,0 +1,79 @@
+css body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #EAF6F6;
+}
+
+header {
+    background-color: #CDF0EA;
+    padding: 50px 0;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 4rem;
+    font-family: 'Sacramento', cursive;
+    margin: 0;
+}
+
+.profile {
+    width: 50%;
+    margin: 80px auto;
+    padding: 30px;
+
+    background-color: #FFFFFF;
+
+    border: 2px solid #66BFBF;
+    border-radius: 15px;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+}
+
+.profile img {
+    width: 200px;
+    height: 200px;
+
+    border-radius: 20px;
+
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+
+    margin-bottom: 20px;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+
+    border-spacing: 15px;
+}
+
+td {
+    font-size: 1.1em;
+    padding: 8px;
+}
+
+#dep,
+#stuid,
+#bio {
+    color: #40514E;
+}
+
+footer {
+    background-color: #66BFBF;
+    padding: 20px 0;
+}
+
+#foooter {
+    color: #EAF6F6;
+    font-size: 0.9rem;
+    margin: 0;
+}
